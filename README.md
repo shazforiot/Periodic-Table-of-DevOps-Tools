@@ -4,6 +4,7 @@ List of Tools for DevOps. Periodic Table of DevOps Tools
 
 I found this periodic table very useful and detailed list of tools that is used in DevOps or Devolepment and operations team.  Some of them are very faimiliar to me and some of them are very new. Thanks and credit of the pic to XebiaLabs. I have put a list of the tools details which I have started working or experience on. I hope it will be helpful for some of you.
 
+Youtube Channel: https://www.youtube.com/channel/UCoOq-DtESvayx5yJE5H6-qQ/videos
 
 **Source Code Management:**
 
