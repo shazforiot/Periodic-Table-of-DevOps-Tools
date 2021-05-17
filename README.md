@@ -7,7 +7,9 @@ I found this periodic table very useful and detailed list of tools that is used 
 **Source Code Management:**
 
 GitLab:- https://youtube.com/playlist?list=PLVx1qovxj-akMM4zEhy_H-KLXyeObiVWE
+
 Git:- https://youtube.com/playlist?list=PLVx1qovxj-aksfb_7PpZQQGNjvvcoEJ-b
+
 Artifactory:- https://youtube.com/playlist?list=PLVx1qovxj-ak-JSKVmQxDrnnkr97WUO7T
 
 
@@ -22,12 +24,14 @@ Ansible:- https://youtube.com/playlist?list=PLVx1qovxj-al0Knm1A0eEXfGyd5kCi16p
 **Containers:**
 
 Docker:- https://youtube.com/playlist?list=PLVx1qovxj-amqyqHceAhkcsopzi4PFcKc
+
 Kubernetes:- https://youtube.com/playlist?list=PLVx1qovxj-akr_3XqQQgpqRyQw4GYuS4h
 
 
 **AIOps:**
 
 Splunk:- https://youtube.com/playlist?list=PLVx1qovxj-amPpeoyKBy-uSQRyDCLLJvu
+
 Prometheus:- https://youtube.com/playlist?list=PLVx1qovxj-anCTn6um3BDsoHnIr0O2tz3
 
 **Analytics:**
