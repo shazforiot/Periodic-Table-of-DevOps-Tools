@@ -6,6 +6,8 @@ I found this periodic table very useful and detailed list of tools that is used 
 
 **Source Code Management:**
 
+<a href="https://youtube.com/playlist?list=PLVx1qovxj-akMM4zEhy_H-KLXyeObiVWE" target="_blank">GitLab:-</a>
+
 GitLab:- https://youtube.com/playlist?list=PLVx1qovxj-akMM4zEhy_H-KLXyeObiVWE
 
 Git:- https://youtube.com/playlist?list=PLVx1qovxj-aksfb_7PpZQQGNjvvcoEJ-b
